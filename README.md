@@ -1,4 +1,12 @@
 # Corona-live-assist-interaction-reporter-or-CLAIR
+
+made by :
+chirag mahajan
+divyanshu gautam
+abhishek nayak
+akash tyagi
+shivang sirohi
+
 here we made a website for corona tracker with a ibm watson assistant , face mask detector and face recongnition
 got the Mask_detector_model.h5 file to run mask detector download from https://drive.google.com/file/d/16voolGvPYYTPfKrZyPjiCcIuO4E5s8wy/view?usp=sharing
 
